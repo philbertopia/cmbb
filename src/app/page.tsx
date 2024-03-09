@@ -74,11 +74,12 @@ export default function Home() {
                 <Image 
                   src="/Community-128x128.png" 
                   width={100} height={100}
+                  alt="Community"
                 />
               </div>
             </div>
             <CardHeader>
-              <CardTitle>Community Building</CardTitle>
+              <CardTitle>Community</CardTitle>
               <CardDescription>Phase 1</CardDescription>
             </CardHeader>
             <CardContent>
@@ -94,6 +95,7 @@ export default function Home() {
                   <Image 
                     src="/perspective_matte-331-128x128.png" 
                     width={100} height={100}
+                    alt="Presale"
                   />
                 </div>
               </div>
@@ -114,11 +116,12 @@ export default function Home() {
                   <Image 
                     src="/perspective_matte-347-128x128.png" 
                     width={100} height={100}
+                    alt="Liquidity Pool"
                   />
                 </div>
               </div>
             <CardHeader>
-              <CardTitle>Liquidity Pool</CardTitle>
+              <CardTitle>Liquidity</CardTitle>
               <CardDescription>Phase 3</CardDescription>
             </CardHeader>
             <CardContent>
