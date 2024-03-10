@@ -111,7 +111,7 @@ export default function Home() {
               <CardDescription>Phase 1: Soaring High with Community</CardDescription>
             </CardHeader>
             <CardContent>
-              <p>Strap in, Blimp Fam! Phase 1 focuses on building our community. We're talkin' airdrops, social media takeovers, and spreading the $CMBB word like confetti at a billionaire's bash.</p>
+              <p>Strap in, Blimp Fam! Phase 1 focuses on building our community. We&apos;re talkin&apos; airdrops, social media takeovers, and spreading the $CMBB word like confetti at a billionaire&apos;s bash.</p>
             </CardContent>
             <div className="flex mt-5 justify-center mb-10 gap-4">
               <Link href="/">
@@ -175,7 +175,7 @@ export default function Home() {
               <CardDescription>Phase 3: Setting Sail (Liquidity & Listings)</CardDescription>
             </CardHeader>
             <CardContent>
-              <p>Brace yourselves for liftoff! Phase 3 sees $CMBB land on a major crypto exchange, making it smooth sailing for anyone to buy and trade our token. Hold on tight, because after this, it's moon time!</p>
+              <p>Brace yourselves for liftoff! Phase 3 sees $CMBB land on a major crypto exchange, making it smooth sailing for anyone to buy and trade our token. Hold on tight, because after this, it&apos;s moon time!</p>
             </CardContent>
             <div className="flex mt-5 justify-center mb-10 gap-4">
               <Link href="/">
@@ -203,11 +203,11 @@ export default function Home() {
       </div>
 
       <div className="mb-24">
-        <p className="text-purple-800 font-bold mb-3">Ditch the Lambo, We're Taking a Blimp to the Moon!</p>
-        <p className="text-zinc-700 mb-5">Forget those boring old cryptocurrencies promising fancy cars and vague promises of a better future. $CMBB isn't about that. $CMBB is about the finer things in life. Like luxury blimps. And caviar. And maybe even solid gold toilets (we're still working on the budget).</p>
+        <p className="text-purple-800 font-bold mb-3">Ditch the Lambo, We&apos;re Taking a Blimp to the Moon!</p>
+        <p className="text-zinc-700 mb-5">Forget those boring old cryptocurrencies promising fancy cars and vague promises of a better future. $CMBB isn&apos;t about that. $CMBB is about the finer things in life. Like luxury blimps. And caviar. And maybe even solid gold toilets (we&apos;re still working on the budget).</p>
         <p className="text-purple-800 font-bold mb-3">Why $CMBB? Because Why Not?</p>
-        <p className="text-zinc-700 mb-3">Look, there's a good chance this whole thing is a massive joke. But hey, isn't that the beauty of cryptocurrency?  Who needs real-world use cases or a functioning product when you can speculate on the dreams of internet strangers?</p>
-        <p className="text-zinc-700 mb-5">Think of it like this: Buying $CMBB is like buying a lottery ticket, except with a much higher chance of winning... a one-way trip to Clown Town. But on the off chance it takes off? Well, then you'll be laughing all the way to the blimp hangar, champagne flute in hand.</p>
+        <p className="text-zinc-700 mb-3">Look, there&apos;s a good chance this whole thing is a massive joke. But hey, isn&apos;t that the beauty of cryptocurrency?  Who needs real-world use cases or a functioning product when you can speculate on the dreams of internet strangers?</p>
+        <p className="text-zinc-700 mb-5">Think of it like this: Buying $CMBB is like buying a lottery ticket, except with a much higher chance of winning... a one-way trip to Clown Town. But on the off chance it takes off? Well, then you&apos;ll be laughing all the way to the blimp hangar, champagne flute in hand.</p>
         
         <div className="mb-5">
           <Image 
@@ -219,7 +219,7 @@ export default function Home() {
           />
         </div>
 
-        <p className="text-zinc-700 mb-5"><span className="text-purple-800 font-bold">Just to be clear (refer to our disclaimer for all the legalese)</span>, we are not financial advisors and this is not financial advice.  In fact, it's the opposite of financial advice.  Please don't buy $CMBB with your rent money.  Unless you like ramen noodles and sleeping on park benches.  Then by all means, go for it. But hey, at least you'll have a story to tell your grandkids (assuming they're not too busy scavenging for bottle caps in the post-apocalyptic wasteland).**</p>
+        <p className="text-zinc-700 mb-5"><span className="text-purple-800 font-bold">Just to be clear (refer to our disclaimer for all the legalese)</span>, we are not financial advisors and this is not financial advice.  In fact, it&apos;s the opposite of financial advice.  Please don&apos;t buy $CMBB with your rent money.  Unless you like ramen noodles and sleeping on park benches.  Then by all means, go for it. But hey, at least you&apos;ll have a story to tell your grandkids (assuming they&apos;re not too busy scavenging for bottle caps in the post-apocalyptic wasteland).**</p>
 
       </div>
 
